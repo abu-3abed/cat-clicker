@@ -1,0 +1,40 @@
+div#container {
+	display: flex;
+}
+
+main {
+	min-width: 80%;
+}
+
+div#cat-details {
+	min-width: 80%;
+
+}
+
+div#cat-list {
+	min-width: 20%;	
+	display: flex;
+	flex-direction: column;
+}
+
+div#cat-item1 {
+	max-height: 150px;
+}
+div#cat-item2 {
+	max-height: 150px;
+}
+div#cat-item3 {
+	max-height: 150px;
+}
+div#cat-item4 {
+	max-height: 150px;
+}
+div#cat-item5 {
+	max-height: 150px;
+}
+
+div#cat-list img {
+	max-width: 100%;
+	max-height: 100%;
+} 
+
